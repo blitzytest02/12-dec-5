@@ -18,5 +18,8 @@
     "tutorial",
     "server"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "supertest": "^7.1.4"
+  }
 }
